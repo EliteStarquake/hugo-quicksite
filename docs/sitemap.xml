@@ -4,12 +4,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-02-25T18:04:07+00:00</lastmod>
+    <lastmod>2020-02-25T18:18:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-02-25T18:04:07+00:00</lastmod>
+    <lastmod>2020-02-25T18:18:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/third-post/</loc>
+    <lastmod>2020-02-25T18:18:27+00:00</lastmod>
   </url>
   
   <url>

@@ -6,10 +6,19 @@
     <description>Recent content on Hugo Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2020 18:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 18:18:27 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Third Post</title>
+      <link>/posts/third-post/</link>
+      <pubDate>Tue, 25 Feb 2020 18:18:27 +0000</pubDate>
+      
+      <guid>/posts/third-post/</guid>
+      <description>This is the third post. This is to test if live deployment is working.</description>
+    </item>
     
     <item>
       <title>Second Post</title>
