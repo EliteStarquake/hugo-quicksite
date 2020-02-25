@@ -1,4 +1,4 @@
-baseURL = "elitestarquake.github.io/hugo-quicksite/"
+baseURL = "/elitestarquake.github.io/hugo-quicksite/"
 languageCode = "en-us"
 title = "Hugo Test"
 theme = "ananke"
