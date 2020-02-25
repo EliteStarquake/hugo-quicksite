@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Test</title>
+    <link>/</link>
+    <description>Recent content on Hugo Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2020 18:04:07 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Post</title>
+      <link>/posts/second-post/</link>
+      <pubDate>Tue, 25 Feb 2020 18:04:07 +0000</pubDate>
+      
+      <guid>/posts/second-post/</guid>
+      <description>This is the second post.
+And this is a link to Hugo.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Tue, 25 Feb 2020 18:03:59 +0000</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>This is the first post.</description>
+    </item>
+    
+  </channel>
+</rss>
